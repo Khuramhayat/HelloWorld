@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HelloWorld</string>
+
+    <string name="name">Name: Azeem Sarwar</string>
+    <string name="FatherName">Father Name: Muhammad Sarwar</string>
+    <string name="email">Email:as1265513@gmail.com</string>
 </resources>
